@@ -8,3 +8,5 @@ export default function About() {
     </div>
   )
 }
+
+//creating pages about home profile signin signup

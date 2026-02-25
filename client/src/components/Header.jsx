@@ -37,3 +37,7 @@ export default function Header() {
     </header>
   );
 }
+
+
+
+//header  add the components like header
